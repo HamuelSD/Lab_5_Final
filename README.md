@@ -9,7 +9,7 @@ This repository contains the backend code and automated API testing suite for a 
 
 
 ## Test Case Documentation
-For a complete, line-by-line breakdown of all expected and actual behaviors, please view the attached **[Test Case Documentation](TestCases.md)**.
+For a complete, line-by-line breakdown of all expected and actual behaviors, please view the attached **[Test Case Documentation](https://docs.google.com/spreadsheets/d/11wOEtRgBFY9yA_Dn1Y2eMzdM2hTBW8VIz0xS0P-McgU/edit?usp=sharing)**.
 
 ## Postman Test Results
 This automated testing suite utilizes both Black Box & White Box test design to evaluate input equivalence partitions, boundary values, business rules, and missing data fail states
