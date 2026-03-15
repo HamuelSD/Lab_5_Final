@@ -1,6 +1,6 @@
 # Software Testing Lab 5 - API Testing
 
-This repository contains the backend code and automated API testing suite for a class roster system supporting CRUD operations for Students and Courses. 
+This repository contains the backend code and automated API testing suite for a class roster system supporting CRUD operations for Students and Courses. I used our provided program as a base, but did make a few updates to the student and course controller for better handling of some of my identitified test cases.
 
 ## Core Project Links
 * **[Postman Collection (JSON)](src/test/resources/postman/StudentRegDemo.postman_collection.json)**
