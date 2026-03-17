@@ -7,6 +7,8 @@ This repository contains the backend code and automated API testing suite for a 
 * **[Student Controller](src/main/java/com/baarsch_bytes/studentRegDemo/controller/StudentController.java)**
 * **[Course Controller](src/main/java/com/baarsch_bytes/studentRegDemo/controller/CourseController.java)**
 
+## Running My Tests
+To successfully run my tests, you will need to clone this repo and run StudentRegDemo, as I made a few changes to the program controllers to ensure my tests work. From there you can upload my custom test collection to postman and run the collection as a whole. You may notice a few redudant "Add Student" POST requests. These are needed for a few tests further down the test chain (like removing students from courses they were never assigned too, etc.), as I did not setup any pre-scripts. Otherwise, these tests should be pretty straight forward to run.
 
 ## Test Case Documentation
 For a complete, line-by-line breakdown of all expected and actual behaviors, please view the attached **[Test Case Documentation](https://docs.google.com/spreadsheets/d/11wOEtRgBFY9yA_Dn1Y2eMzdM2hTBW8VIz0xS0P-McgU/edit?usp=sharing)**.
